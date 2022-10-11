@@ -78,7 +78,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 ## Contributions
 
 <p align="center">
-  ![The Smith-Kettlewell Eye Research Institute](https://user-images.githubusercontent.com/59475801/195055832-7803cc2c-6fd5-4796-af2c-c16fe02c46c8.png)
+  <img width="617" alt="The Smith-Kettlewell Eye Research Institute" align="center" src="https://user-images.githubusercontent.com/59475801/195065687-ae6605bd-f4e4-456d-87ef-8a3662144632.png">
 </p>
 
 <p align="center">
