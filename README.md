@@ -9,62 +9,120 @@ The YuWA dataset covers a vast domain of videos in 15  titled categories includ
 
 The YuWA data repository includes all YouDescribe related audio descriptions from 2013-2022 and can be sorted to include or exclude important YouDescribe milestones. We have focused on data collected by YouDescribe since March 17, 2017 and Google Analytics data which started tracking traffic since July 30, 2020.  This scalable dataset will be regularly updated as new videos, audio descriptions and audio clips gets uploaded. 
 
-## Figures and Tables
+## Data Analysis
 
-Percentage of Rated/Unrated Audio Descriptions 
+<b> Percentage of Rated / Unrated Audio Descriptions </b>
 
-<img width="327" alt="Percentage of Rated/Unrated Audio Descriptions" align="center" src="https://user-images.githubusercontent.com/59475801/195049891-8bc342ff-6603-4abc-8729-d194c08cd67e.png">
+<p align="center">
+  <img width="327" alt="Percentage of Rated / Unrated Audio Descriptions" align="center" src="https://user-images.githubusercontent.com/59475801/195049891-8bc342ff-6603-4abc-8729-d194c08cd67e.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Audio Descriptions Ratings
+<b> Audio Descriptions Ratings </b>
 
-<img width="373" alt="Audio Descriptions Ratings (poor to excellent)" align="center" src="https://user-images.githubusercontent.com/59475801/195051281-7fb7ae89-b77c-468b-b327-2f8cbb5d2782.png">
+<p align="center">
+  <img width="373" alt="Audio Descriptions Ratings (poor to excellent)" align="center" src="https://user-images.githubusercontent.com/59475801/195051281-7fb7ae89-b77c-468b-b327-2f8cbb5d2782.png"> 
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Statistics for Videos, Audio Descriptions and Audio Clips
+<b> Statistics for Videos, Audio Descriptions and Audio Clips </b>
 
-<img width="363" alt="Statistics for Videos, Audio Descriptions and Audio Clips" align="center" src="https://user-images.githubusercontent.com/59475801/195052435-ac1cc044-6a4d-45f3-bdb9-cab35e726cea.png">
+<p align="center">
+  <img width="363" alt="Statistics for Videos, Audio Descriptions and Audio Clips" align="center" src="https://user-images.githubusercontent.com/59475801/195052435-ac1cc044-6a4d-45f3-bdb9-cab35e726cea.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Described Videos in each YouTube video category
+<b> Described Videos in each YouTube video category </b>
 
-<img width="621" alt="Described Videos in each YouTube video category" align="center" src="https://user-images.githubusercontent.com/59475801/195052683-4b44483d-d786-4630-9485-584b848a67b1.png">
+<p align="center">
+  <img width="621" alt="Described Videos in each YouTube video category" align="center" src="https://user-images.githubusercontent.com/59475801/195052683-4b44483d-d786-4630-9485-584b848a67b1.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Top 10 most requested videos
+<b> Top 10 most requested videos </b>
 
-<img width="722" alt="Top 10 most requested videos" align="center" src="https://user-images.githubusercontent.com/59475801/195052826-f5a8e179-b942-496f-8a3d-549f8141f16f.png">
+<p align="center">
+  <img width="722" alt="Top 10 most requested videos" align="center" src="https://user-images.githubusercontent.com/59475801/195052826-f5a8e179-b942-496f-8a3d-549f8141f16f.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Wishlist videos for each YouTube video category
+<b> Wishlist videos for each YouTube video category </b>
 
-<img width="718" alt="Wishlist videos for each YouTube video category" align="center" src="https://user-images.githubusercontent.com/59475801/195052975-85a62b6d-6b03-4cd1-b363-7c5690a156a4.png">
+<p align="center">
+  <img width="718" alt="Wishlist videos for each YouTube video category" align="center" src="https://user-images.githubusercontent.com/59475801/195052975-85a62b6d-6b03-4cd1-b363-7c5690a156a4.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Wishlist videos requested per year
+<b> Wishlist videos requested per year </b>
 
-<img width="673" alt="Wishlist videos requested per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053094-8500b1dd-59da-4094-a066-bf1bf79dd23e.png">
+<p align="center">
+  <img width="673" alt="Wishlist videos requested per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053094-8500b1dd-59da-4094-a066-bf1bf79dd23e.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-Wishlist videos queued and described per year
+<b> Wishlist videos queued and described per year </b>
 
-<img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053220-90cc3dac-68a2-4e60-809c-d3211d2505d9.png">
+<p align="center">
+  <img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053220-90cc3dac-68a2-4e60-809c-d3211d2505d9.png">
+</p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
 ## Contributions
 
-![The Smith-Kettlewell Eye Research Institute](https://user-images.githubusercontent.com/59475801/195055832-7803cc2c-6fd5-4796-af2c-c16fe02c46c8.png)
+<p align="center">
+  ![The Smith-Kettlewell Eye Research Institute](https://user-images.githubusercontent.com/59475801/195055832-7803cc2c-6fd5-4796-af2c-c16fe02c46c8.png)
+</p>
 
-<img width="1152" alt="San Francisco State University" align="center" src="https://user-images.githubusercontent.com/59475801/195056038-a862c4f8-4cf3-47d0-944d-843cc8d4d505.png">
+<p align="center">
+  <img width="1152" alt="San Francisco State University" align="center" src="https://user-images.githubusercontent.com/59475801/195056038-a862c4f8-4cf3-47d0-944d-843cc8d4d505.png">
+</p>
 
+<p align="center">
 <img width="664" alt="Ability Central" align="center" src="https://user-images.githubusercontent.com/59475801/195056260-d0d90274-f1c7-4e9b-898c-cfb974e3fbc7.png">
+</p>
+
+## Meet the Team Members
+
+| Team Member Name | Year | Role |
+| :-------------: | :---: | :---: |
+| Dr. Joshua Miele | 2013 - Present | YouDescribe Creator	|
+| Charity Pitcher-Cooper | 2017 - Present | Product Manager	|
+| James Coughlan	|  |  |
+| Rodrigo Leme de Mello | 2017 - 2020 | Principal Software Engineer |
+| Ilmi Yoon | 2018 - Present |  |
+| Rupal Khilari	| 2016 - 2017 | Software Developer | 
+| Andrew Taylor Scott	| 2019 - Present | Machine Learning Lead Engineer	|
+| Abhishek Das	| 2018 - 2020 | Machine Learning Engineer	|
+| Yash Kant	| 2018 - 2020 | Machine Learning Engineer	|
+| Umang Mathur | 2018 - 2020 | Software Developer	|
+| Beste Yuksel | 2018 - 2020 | Software Developer |
+| Jianfei Zhao | 2018 - 2020 | Software Developer	|
+| Poorva Rathi | 2018 - 2020 | Software Developer	|
+| Vaishali Bisht | 2018 - 2020 | Software Developer |
+| Raya Farshad	|	2018 - 2020 |  |
+| Jose Castanon	| 2018 - Present | Software Developer |
+| Aditya Bodi	| 2018 - 2020 | Software Developer |
+| Brenna Tirumalashetty | 2018 - 2020 |  |
+| Manish Patil | 2018 - 2020 |	Software Developer	|
+| Varun Sura	| 2020 - Present | iOS App Developer	
+| Lothar Narins	|  | Machine Learning Engineer | 	
+| Bhavani Gorganthu	|  |  |		
+| Benjamin Kao	| Present |  |		
+| Hirva Patel	| Present |  |		
+| Kishan Patel	| Present | Mobile Developer	|
+| Manali Seth	| Present |  |
+| Ishank Aggarwal	| Present |  |
+| Sanket Naik	| Present |  |		
+| Vishal Sharma	| Present |  |		
+| Caelen Wang	| Present |  |		
+
 
 
