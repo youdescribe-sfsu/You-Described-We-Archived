@@ -16,3 +16,47 @@ Percentage of Rated/Unrated Audio Descriptions
 <img width="327" alt="Percentage of Rated/Unrated Audio Descriptions" src="https://user-images.githubusercontent.com/59475801/195049891-8bc342ff-6603-4abc-8729-d194c08cd67e.png">
 March 17, 2017 - September 21, 2022
 
+
+Audio Descriptions Ratings
+
+<img width="373" alt="Audio Descriptions Ratings (poor to excellent)" src="https://user-images.githubusercontent.com/59475801/195051281-7fb7ae89-b77c-468b-b327-2f8cbb5d2782.png">
+March 17, 2017 - September 21, 2022
+
+
+Statistics for Videos, Audio Descriptions and Audio Clips
+
+<img width="363" alt="Statistics for Videos, Audio Descriptions and Audio Clips" src="https://user-images.githubusercontent.com/59475801/195052435-ac1cc044-6a4d-45f3-bdb9-cab35e726cea.png">
+March 17, 2017 - September 21, 2022
+
+
+Described Videos in each YouTube video category
+
+<img width="621" alt="Described Videos in each YouTube video category" src="https://user-images.githubusercontent.com/59475801/195052683-4b44483d-d786-4630-9485-584b848a67b1.png">
+March 17, 2017 - September 21, 2022
+
+
+Top 10 most requested videos
+
+<img width="722" alt="Top 10 most requested videos" src="https://user-images.githubusercontent.com/59475801/195052826-f5a8e179-b942-496f-8a3d-549f8141f16f.png">
+March 17, 2017 - September 21, 2022
+
+
+Wishlist videos for each YouTube video category
+
+<img width="718" alt="Wishlist videos for each YouTube video category" src="https://user-images.githubusercontent.com/59475801/195052975-85a62b6d-6b03-4cd1-b363-7c5690a156a4.png">
+March 17, 2017 - September 21, 2022
+
+
+Wishlist videos requested per year
+
+<img width="673" alt="Wishlist videos requested per year" src="https://user-images.githubusercontent.com/59475801/195053094-8500b1dd-59da-4094-a066-bf1bf79dd23e.png">
+March 17, 2017 - September 21, 2022
+
+
+Wishlist videos queued and described per year
+
+<img width="690" alt="Wishlist videos queued and described per year" src="https://user-images.githubusercontent.com/59475801/195053220-90cc3dac-68a2-4e60-809c-d3211d2505d9.png">
+March 17, 2017 - September 21, 2022
+
+
+
