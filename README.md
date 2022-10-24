@@ -96,13 +96,15 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 | Dr. Joshua Miele | 2013 - Present | YouDescribe Creator	|
 | Charity Pitcher-Cooper | 2017 - Present | Product Manager	|
 | Rodrigo Leme de Mello | 2017 - 2020 | Principal Software Engineer |
-| Ilmi Yoon | 2018 - Present |  |
+| Dr. Ilmi Yoon | 2018 - Present | Principal Investigator |
 | Rupal Khilari	| 2016 - 2017 | Software Developer | 
 | Andrew Taylor Scott	| 2019 - Present | Machine Learning Lead Engineer	|
-| Abhishek Das	| 2018 - 2020 | Machine Learning Engineer	|
+| Dr. Yue-Ting Siu | 2013 - Present | Describer Trainer, Interface Design Researcher |
+| Dr. Shasta Ihorn | 2020 - Present | User Study Researcher |
+| Dr. Abhishek Das	| 2018 - 2020 | Machine Learning Engineer	|
 | Yash Kant	| 2018 - 2020 | Machine Learning Engineer	|
 | Umang Mathur | 2018 - 2020 | Software Developer	|
-| Beste Yuksel | 2018 - 2020 | Software Developer |
+| Dr. Beste Yuksel | 2018 - 2020 | HCI Researcher |
 | Jianfei Zhao | 2018 - 2020 | Software Developer	|
 | Poorva Rathi | 2018 - 2020 | Software Developer	|
 | Vaishali Bisht | 2018 - 2020 | Software Developer |
@@ -112,16 +114,46 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 | Brenna Tirumalashetty | 2018 - 2020 |  |
 | Manish Patil | 2018 - 2020 |	Software Developer	|
 | Varun Sura	| 2020 - Present | iOS App Developer	
-| Lothar Narins	|  | Machine Learning Engineer | 	
-| Bhavani Gorganthu	|  |  |		
-| Benjamin Kao	| Present |  |		
-| Hirva Patel	| Present |  |		
-| Kishan Patel	| Present | Mobile Developer	|
-| Manali Seth	| Present |  |
-| Ishank Aggarwal	| Present |  |
-| Sanket Naik	| Present |  |		
-| Vishal Sharma	| Present |  |		
-| Caelen Wang	| Present |  |		
+| Lothar Narins	| 2019 - Present  | Machine Learning Engineer | 	
+| Bhavani Gorganthu	| 2021-2022  | YouDescribeX Web Interface |		
+| Benjamin Kao	| 2022 - Present |  |		
+| Hirva Patel	| 2022 - Present |  |		
+| Kishan Patel	| 2022 - Present | Mobile Developer	|
+| Manali Seth	| 2022 - Present |  |
+| Sanket Naik	| 2022 - Present |  |		
+| Vishal Sharma	| 2022 - Present |  |		
+| Caelen Wang	| 2022 - Present |  |		
+
+
+
+Dr. Joshua Miele	2013 - 2020	YouDescribe Creator
+Charity Pitcher-Cooper	2017 - Present	Product Manager
+Rodrigo Leme de Mello	2017 - 2020	Principal Software Engineer
+Dr. Ilmi Yoon	2015 - Present	Principal Investigator
+Rupal Khilari	2016 - 2017	Software Developer
+Andrew Taylor Scott	2019 - Present	Machine Learning Lead Engineer
+Dr. Abhishek Das	2018 - 2020	Machine Learning Engineer
+Yash Kant	2018 - 2020	Machine Learning Engineer
+Umang Mathur	2018 - 2020	Software Developer
+Dr. Beste Yuksel	2019 - 2020	HCI Researcher
+Jianfei Zhao	2018 - 2020	Software Developer
+Poorva Rathi	2018 - 2020	Software Developer
+Vaishali Bisht	2018 - 2020	Software Developer
+Jose Castanon	2018 - 2022	Software Developer
+Aditya Bodi	2018 - 2020	Software Developer
+Brenna Tirumalashetty	2018 - 2020	
+Manish Patil	2018 - 2020	Software Developer
+Varun Sura	2020 - 2021	iOS App Developer
+Lothar Narins	2019 - Present	Machine Learning Engineer
+Bhavani Gorganthu	2021-2022	YouDescribeX Web Interface
+Benjamin Kao	2022-Present	
+Hirva Patel	2022-Present	
+Kishan Patel	2022-Present	Mobile Developer
+Manali Seth	2022-Present	
+Sanket Naik	2022-Present	
+Vishal Sharma	2022-Present	
+Caelen Wang	2022-Present	
+
 
 
 # Licensing
