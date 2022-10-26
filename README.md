@@ -11,6 +11,23 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 
 ## Data Analysis
 
+
+<b> Audio Descriptions Yearly </b>
+
+<p align="center">
+  <img width="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198099606-32558a33-9dd9-439c-b6ae-2966ddb7ae2f.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Audio Descriptions Grouped by Year and Month </b>
+
+<p align="center">
+  <img width="700" alt="Audio Descriptions Grouped by Year and Month" align="center" src="https://user-images.githubusercontent.com/59475801/198099798-febff3b8-0251-47f9-92dc-13ff794d85ef.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
 <b> Percentage of Rated / Unrated Audio Descriptions </b>
 
 <p align="center">
@@ -35,10 +52,34 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
+<b> Audio Clips by Playback Type </b>
+
+<p align="center">
+  <img width="363" alt="Audio Clips by Playback Type" align="center" src="https://user-images.githubusercontent.com/59475801/198100077-45126cf7-d690-480d-90c1-a37c89e77d65.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
 <b> Described Videos in each YouTube video category </b>
 
 <p align="center">
   <img width="621" alt="Described Videos in each YouTube video category" align="center" src="https://user-images.githubusercontent.com/59475801/195052683-4b44483d-d786-4630-9485-584b848a67b1.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Audio Descriptions with Extended Audio Clips grouped by Video Category </b>
+
+<p align="center">
+  <img width="722" alt="Audio Descriptions with Extended Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099072-6851df2a-fa93-43fb-8d60-3f48dc8f2ab5.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Audio Descriptions with Inline Audio Clips grouped by Video Category </b>
+
+<p align="center">
+  <img width="722" alt="Audio Descriptions with Inline Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099349-bd294387-54eb-4b17-ad97-db606b567cfe.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
