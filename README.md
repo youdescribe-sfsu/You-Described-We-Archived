@@ -16,7 +16,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <p align="center">
   <img width="620" height="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198155956-78d80916-81ad-4f64-b579-740dd79f4210.png">
 </p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
+<p align="center"> March 17, 2017 - December 31, 2021 </p>
 
 
 <b> Audio Descriptions Grouped by Year and Month </b>
