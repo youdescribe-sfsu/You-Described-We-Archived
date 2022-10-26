@@ -1,9 +1,9 @@
 # You Described, We Archived: A Rich Audio Description Dataset
-(Under Development)
+## <span style="color:red">(Under Development)</span>
 
 The You Described, We Archived dataset (YuWA) is a collaboration between San Francisco State University and The Smith-Kettlewell Eye Research Institute. It includes audio description (AD) data collected worldwide 2013-2022 through YouDescribe, an accessibility tool for adding audio descriptions to YouTube videos. YouDescribe, a web-based audio description tool along with an iOS viewing app, has a community of 12,000+ average annual visitors, with 3,000+ volunteer describers, and has created over 5,500+ audio described YouTube videos. 
 
-Blind and visually impaired (BVI) viewers request YouTube videos that are saved to a wishlist and volunteer audio describers select a video, write a script, record audio clips, and edit clip placement to create an audio description. The audio description tracks are stored separately and played together with the YouTube video then posted for public view at [YouDescribe](www.youdescribe.org)
+Blind and visually impaired (BVI) viewers request YouTube videos that are saved to a wishlist and volunteer audio describers select a video, write a script, record audio clips, and edit clip placement to create an audio description. The audio description tracks are stored separately and played together with the YouTube video then posted for public view at [YouDescribe](https://youdescribe.org/)
 
 The YuWA dataset covers a vast domain of videos in 15  titled categories including Film & Animation, Music, Autos & Vehicles, Travel & Events, Pets & Animals, Sports, People & Blogs, Gaming, Comedy, Entertainment, How-To & Style, News & Politics, Nonprofits & Activism, Education, Science & Technology. A video can have multiple audio descriptions and an audio description can have multiple audio clips recorded by volunteer describers. The audio clips recorded before May, 2020 were transcribed using Listen By Code and the audio clips recorded after that are transcribed using Google Cloud Speech to Text API. Viewers can rate the audio descriptions on a scale ranging from 1-5 (1 being poor, 5 being excellent). Viewers can also provide feedback to the describers by selecting some improvements from the list. 
 
@@ -136,15 +136,16 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 | :-------------: | :---: | :---: |
 | Dr. Joshua Miele | 2013 - Present | YouDescribe Creator	|
 | Charity Pitcher-Cooper | 2017 - Present | Product Manager	|
-| James Coughlan	|  |  |
 | Rodrigo Leme de Mello | 2017 - 2020 | Principal Software Engineer |
-| Ilmi Yoon | 2018 - Present |  |
+| Dr. Ilmi Yoon | 2018 - Present | Principal Investigator |
 | Rupal Khilari	| 2016 - 2017 | Software Developer | 
 | Andrew Taylor Scott	| 2019 - Present | Machine Learning Lead Engineer	|
-| Abhishek Das	| 2018 - 2020 | Machine Learning Engineer	|
+| Dr. Yue-Ting Siu | 2013 - Present | Describer Trainer, Interface Design Researcher |
+| Dr. Shasta Ihorn | 2020 - Present | User Study Researcher |
+| Dr. Abhishek Das	| 2018 - 2020 | Machine Learning Engineer	|
 | Yash Kant	| 2018 - 2020 | Machine Learning Engineer	|
 | Umang Mathur | 2018 - 2020 | Software Developer	|
-| Beste Yuksel | 2018 - 2020 | Software Developer |
+| Dr. Beste Yuksel | 2018 - 2020 | HCI Researcher |
 | Jianfei Zhao | 2018 - 2020 | Software Developer	|
 | Poorva Rathi | 2018 - 2020 | Software Developer	|
 | Vaishali Bisht | 2018 - 2020 | Software Developer |
@@ -154,16 +155,49 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 | Brenna Tirumalashetty | 2018 - 2020 |  |
 | Manish Patil | 2018 - 2020 |	Software Developer	|
 | Varun Sura	| 2020 - Present | iOS App Developer	
-| Lothar Narins	|  | Machine Learning Engineer | 	
-| Bhavani Gorganthu	|  |  |		
-| Benjamin Kao	| Present |  |		
-| Hirva Patel	| Present |  |		
-| Kishan Patel	| Present | Mobile Developer	|
-| Manali Seth	| Present |  |
-| Ishank Aggarwal	| Present |  |
-| Sanket Naik	| Present |  |		
-| Vishal Sharma	| Present |  |		
-| Caelen Wang	| Present |  |		
+| Lothar Narins	| 2019 - Present  | Machine Learning Engineer | 	
+| Bhavani Gorganthu	| 2021-2022  | YouDescribeX Web Interface |		
+| Benjamin Kao	| 2022 - Present |  |		
+| Hirva Patel	| 2022 - Present |  |		
+| Kishan Patel	| 2022 - Present | Mobile Developer	|
+| Manali Seth	| 2022 - Present |  |
+| Sanket Naik	| 2022 - Present |  |		
+| Vishal Sharma	| 2022 - Present |  |		
+| Caelen Wang	| 2022 - Present |  |		
 
+
+
+Dr. Joshua Miele	2013 - 2020	YouDescribe Creator
+Charity Pitcher-Cooper	2017 - Present	Product Manager
+Rodrigo Leme de Mello	2017 - 2020	Principal Software Engineer
+Dr. Ilmi Yoon	2015 - Present	Principal Investigator
+Rupal Khilari	2016 - 2017	Software Developer
+Andrew Taylor Scott	2019 - Present	Machine Learning Lead Engineer
+Dr. Abhishek Das	2018 - 2020	Machine Learning Engineer
+Yash Kant	2018 - 2020	Machine Learning Engineer
+Umang Mathur	2018 - 2020	Software Developer
+Dr. Beste Yuksel	2019 - 2020	HCI Researcher
+Jianfei Zhao	2018 - 2020	Software Developer
+Poorva Rathi	2018 - 2020	Software Developer
+Vaishali Bisht	2018 - 2020	Software Developer
+Jose Castanon	2018 - 2022	Software Developer
+Aditya Bodi	2018 - 2020	Software Developer
+Brenna Tirumalashetty	2018 - 2020	
+Manish Patil	2018 - 2020	Software Developer
+Varun Sura	2020 - 2021	iOS App Developer
+Lothar Narins	2019 - Present	Machine Learning Engineer
+Bhavani Gorganthu	2021-2022	YouDescribeX Web Interface
+Benjamin Kao	2022-Present	
+Hirva Patel	2022-Present	
+Kishan Patel	2022-Present	Mobile Developer
+Manali Seth	2022-Present	
+Sanket Naik	2022-Present	
+Vishal Sharma	2022-Present	
+Caelen Wang	2022-Present	
+
+
+
+# Licensing
+You Described, We Archived ©️ 2022 by Smith-Kettlewell Eye Research Institute, San Francisco State University is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 
