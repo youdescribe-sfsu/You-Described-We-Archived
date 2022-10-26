@@ -15,9 +15,9 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Audio Descriptions Yearly </b>
 
 <p align="center">
-  <img width="500" height="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198099606-32558a33-9dd9-439c-b6ae-2966ddb7ae2f.png">
+  <img width="620" height="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198155956-78d80916-81ad-4f64-b579-740dd79f4210.png">
 </p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
+<p align="center"> March 17, 2017 - December 31, 2021 </p>
 
 
 <b> Audio Descriptions Grouped by Year and Month </b>
@@ -55,7 +55,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Audio Clips by Playback Type </b>
 
 <p align="center">
-  <img width="400" height="350" alt="Audio Clips by Playback Type" align="center" src="https://user-images.githubusercontent.com/59475801/198100077-45126cf7-d690-480d-90c1-a37c89e77d65.png">
+  <img width="500" height="350" alt="Audio Clips by Playback Type" align="center" src="https://user-images.githubusercontent.com/59475801/198100077-45126cf7-d690-480d-90c1-a37c89e77d65.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
