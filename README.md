@@ -15,9 +15,9 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Audio Descriptions Yearly </b>
 
 <p align="center">
-  <img width="500" height="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198099606-32558a33-9dd9-439c-b6ae-2966ddb7ae2f.png">
+  <img width="620" height="400" alt="Audio Descriptions Yearly" align="center" src="https://user-images.githubusercontent.com/59475801/198155956-78d80916-81ad-4f64-b579-740dd79f4210.png">
 </p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
+<p align="center"> March 17, 2017 - December 31, 2021 </p>
 
 
 <b> Audio Descriptions Grouped by Year and Month </b>
@@ -55,7 +55,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Audio Clips by Playback Type </b>
 
 <p align="center">
-  <img width="400" height="350" alt="Audio Clips by Playback Type" align="center" src="https://user-images.githubusercontent.com/59475801/198100077-45126cf7-d690-480d-90c1-a37c89e77d65.png">
+  <img width="500" height="350" alt="Audio Clips by Playback Type" align="center" src="https://user-images.githubusercontent.com/59475801/198100077-45126cf7-d690-480d-90c1-a37c89e77d65.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
@@ -100,20 +100,12 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-<b> Wishlist videos requested per year </b>
+<b> Wishlist videos requested and described per year </b>
 
 <p align="center">
-  <img width="673" alt="Wishlist videos requested per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053094-8500b1dd-59da-4094-a066-bf1bf79dd23e.png">
+  <img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/198350697-64e7a2b2-272e-44ff-a33f-789e3d31837c.png">
 </p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
-
-
-<b> Wishlist videos queued and described per year </b>
-
-<p align="center">
-  <img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053220-90cc3dac-68a2-4e60-809c-d3211d2505d9.png">
-</p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
+<p align="center"> March 17, 2017 - December 31, 2021 </p>
 
 
 ## Contributions
