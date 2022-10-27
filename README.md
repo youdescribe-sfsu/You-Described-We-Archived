@@ -28,6 +28,22 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
+<b> Premium dataset - Number of New and Existing Descriptions by year </b>
+
+<p align="center">
+  <img width="900" height="450" alt="Premium dataset - Number of New and Existing Descriptions by year" align="center" src="https://user-images.githubusercontent.com/59475801/198412337-5e4e63e6-99d4-4964-a940-b05872faa876.png">
+</p>
+<p align="center"> September 1, 2017 - August 31, 2022 </p>
+
+
+<b> Premium dataset - Number of New and Existing Describers by year </b>
+
+<p align="center">
+  <img width="900" height="450" alt="Premium dataset - Number of New and Existing Describers by year" align="center" src="https://user-images.githubusercontent.com/59475801/198412472-f2cd9f9b-a9f7-4e91-bdcd-ea252fed0708.png">
+</p>
+<p align="center"> September 1, 2017 - August 31, 2022 </p>
+
+
 <b> Percentage of Rated / Unrated Audio Descriptions </b>
 
 <p align="center">
