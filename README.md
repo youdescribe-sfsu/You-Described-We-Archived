@@ -11,6 +11,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 
 ## Data Analysis
 
+
 <b> Audio Descriptions Yearly </b>
 
 <p align="center">
@@ -25,6 +26,22 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
   <img width="900" height="450" alt="Audio Descriptions Grouped by Year and Month" align="center" src="https://user-images.githubusercontent.com/59475801/198099798-febff3b8-0251-47f9-92dc-13ff794d85ef.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Premium dataset - Number of New and Existing Descriptions by year </b>
+
+<p align="center">
+  <img width="900" height="450" alt="Premium dataset - Number of New and Existing Descriptions by year" align="center" src="https://user-images.githubusercontent.com/59475801/198412337-5e4e63e6-99d4-4964-a940-b05872faa876.png">
+</p>
+<p align="center"> September 1, 2017 - August 31, 2022 </p>
+
+
+<b> Premium dataset - Number of New and Existing Describers by year </b>
+
+<p align="center">
+  <img width="900" height="450" alt="Premium dataset - Number of New and Existing Describers by year" align="center" src="https://user-images.githubusercontent.com/59475801/198412472-f2cd9f9b-a9f7-4e91-bdcd-ea252fed0708.png">
+</p>
+<p align="center"> September 1, 2017 - August 31, 2022 </p>
 
 
 <b> Percentage of Rated / Unrated Audio Descriptions </b>
@@ -86,6 +103,22 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Top 10 most requested videos </b>
 
 <p align="center">
+  <img width="722" alt="Audio Descriptions with Extended Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099072-6851df2a-fa93-43fb-8d60-3f48dc8f2ab5.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Audio Descriptions with Inline Audio Clips grouped by Video Category </b>
+
+<p align="center">
+  <img width="722" alt="Audio Descriptions with Inline Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099349-bd294387-54eb-4b17-ad97-db606b567cfe.png">
+</p>
+<p align="center"> March 17, 2017 - September 21, 2022 </p>
+
+
+<b> Top 10 most requested videos </b>
+
+<p align="center">
   <img width="722" alt="Top 10 most requested videos" align="center" src="https://user-images.githubusercontent.com/59475801/195052826-f5a8e179-b942-496f-8a3d-549f8141f16f.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
@@ -99,20 +132,12 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
 
-<b> Wishlist videos requested per year </b>
+<b> Wishlist videos requested and described per year </b>
 
 <p align="center">
-  <img width="673" alt="Wishlist videos requested per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053094-8500b1dd-59da-4094-a066-bf1bf79dd23e.png">
+  <img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/198350697-64e7a2b2-272e-44ff-a33f-789e3d31837c.png">
 </p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
-
-
-<b> Wishlist videos queued and described per year </b>
-
-<p align="center">
-  <img width="690" alt="Wishlist videos queued and described per year" align="center" src="https://user-images.githubusercontent.com/59475801/195053220-90cc3dac-68a2-4e60-809c-d3211d2505d9.png">
-</p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
+<p align="center"> March 17, 2017 - December 31, 2021 </p>
 
 
 ## Contributions
