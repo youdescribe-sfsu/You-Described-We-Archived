@@ -164,14 +164,16 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 | Manish Patil | 2018 - 2020 |	Software Developer	|
 | Varun Sura	| 2020 - Present | iOS App Developer	
 | Lothar Narins	| 2019 - Present  | Machine Learning Engineer | 	
-| Bhavani Gorganthu	| 2021-2022  | YouDescribeX Web Interface |		
-| Benjamin Kao	| 2022 - Present |  |		
-| Hirva Patel	| 2022 - Present |  |		
+| Bhavani Gorganthu	| 2021 - 2022  | YouDescribeX Web Interface |		
+| Benjamin Kao	| 2022 - Present | Team Leader/Software Engineer |		
+| Hirva Patel	| 2022 - Present | Software Developer |		
 | Kishan Patel	| 2022 - Present | Mobile Developer	|
-| Manali Seth	| 2022 - Present |  |
-| Sanket Naik	| 2022 - Present |  |		
-| Vishal Sharma	| 2022 - Present |  |		
-| Caelen Wang	| 2022 - Present |  |		
+| Manali Seth	| 2022 - Present | Software/Data Engineer |
+| Sanket Naik	| 2022 - Present | Software Developer |		
+| Vishal Sharma	| 2022 - Present | Software Developer |
+| Ishank Aggarwal | 2022 - Present | Machine Learning Engineer |		
+| Caelen Wang	| 2022 - Present | Machine Learning Engineer |
+| Kimon Monokandilos | 2022 - Present | Software Engineer |		
 
 
 
@@ -188,20 +190,23 @@ Dr. Beste Yuksel	2019 - 2020	HCI Researcher
 Jianfei Zhao	2018 - 2020	Software Developer
 Poorva Rathi	2018 - 2020	Software Developer
 Vaishali Bisht	2018 - 2020	Software Developer
+Raya Farshad 2018 -2020 
 Jose Castanon	2018 - 2022	Software Developer
 Aditya Bodi	2018 - 2020	Software Developer
 Brenna Tirumalashetty	2018 - 2020	
 Manish Patil	2018 - 2020	Software Developer
 Varun Sura	2020 - 2021	iOS App Developer
 Lothar Narins	2019 - Present	Machine Learning Engineer
-Bhavani Gorganthu	2021-2022	YouDescribeX Web Interface
-Benjamin Kao	2022-Present	
-Hirva Patel	2022-Present	
-Kishan Patel	2022-Present	Mobile Developer
-Manali Seth	2022-Present	
-Sanket Naik	2022-Present	
-Vishal Sharma	2022-Present	
-Caelen Wang	2022-Present	
+Bhavani Gorganthu	2021 - 2022	YouDescribeX Web Interface
+Benjamin Kao	2022 - Present Team Leader/Software Engineer
+Hirva Patel	2022 - Present Software Developer
+Kishan Patel	2022 - Present	Mobile Developer
+Manali Seth	2022 - Present Software/Data Engineer
+Sanket Naik	2022 - Present Software Developer
+Vishal Sharma	2022 - Present Software Developer
+Ishank Aggarwal 2022 - Present Machine Learning Engineer
+Caelen Wang	2022 - Present Machine Learning Engineer
+Kimon Monokandilos 2022 - Present Software Engineer	
 
 
 
