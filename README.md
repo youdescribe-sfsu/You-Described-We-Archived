@@ -103,22 +103,6 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Top 10 most requested videos </b>
 
 <p align="center">
-  <img width="722" alt="Audio Descriptions with Extended Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099072-6851df2a-fa93-43fb-8d60-3f48dc8f2ab5.png">
-</p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
-
-
-<b> Audio Descriptions with Inline Audio Clips grouped by Video Category </b>
-
-<p align="center">
-  <img width="722" alt="Audio Descriptions with Inline Audio Clips grouped by Video Category" align="center" src="https://user-images.githubusercontent.com/59475801/198099349-bd294387-54eb-4b17-ad97-db606b567cfe.png">
-</p>
-<p align="center"> March 17, 2017 - September 21, 2022 </p>
-
-
-<b> Top 10 most requested videos </b>
-
-<p align="center">
   <img width="722" alt="Top 10 most requested videos" align="center" src="https://user-images.githubusercontent.com/59475801/195052826-f5a8e179-b942-496f-8a3d-549f8141f16f.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
