@@ -1,5 +1,4 @@
 # You Described, We Archived: A Rich Audio Description Dataset
-## <span style="color:red">(Under Development)</span>
 
 The You Described, We Archived dataset (YuWA) is a collaboration between San Francisco State University and The Smith-Kettlewell Eye Research Institute. It includes audio description (AD) data collected worldwide 2013-2022 through YouDescribe, an accessibility tool for adding audio descriptions to YouTube videos. YouDescribe, a web-based audio description tool along with an iOS viewing app, has a community of 12,000+ average annual visitors, with 3,000+ volunteer describers, and has created over 5,500+ audio described YouTube videos. 
 
