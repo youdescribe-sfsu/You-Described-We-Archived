@@ -8,6 +8,39 @@ The YuWA dataset covers a vast domain of videos in 15  titled categories includ
 
 The YuWA data repository includes all YouDescribe related audio descriptions from 2013-2022 and can be sorted to include or exclude important YouDescribe milestones. We have focused on data collected by YouDescribe since March 17, 2017 and Google Analytics data which started tracking traffic since July 30, 2020.  This scalable dataset will be regularly updated as new videos, audio descriptions and audio clips gets uploaded. 
 
+## Run Instructions
+The `download_yd_data.py` file was tested using Python 3.9. So, please make sure that when you use `python`, your Python version is at least Python 3 or make sure you specify `python3`.
+
+
+1. Install the requests module:
+
+```bash
+pip install requests
+
+# If using python3
+pip3 install requests
+```
+
+2. Run the python file:
+
+```bash
+# The default configuration will store the audio clips in the current directory
+# separated by YouTube video ID and Audio Description ID.
+# --audioDescDir: This option allows you to specify the output directory where
+#                 the audio clips will be stored.
+
+python download_yd_data.py
+
+# If specifying python3
+python3 download_yd_data.py
+
+# Specify output directory
+python download_yd_data.py --audioDescDir=<PATH_TO_OUTPUT_DIR>
+```
+
+
+
+
 ## Data Analysis
 
 
