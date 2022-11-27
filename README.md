@@ -1,5 +1,4 @@
 # You Described, We Archived: A Rich Audio Description Dataset
-## <span style="color:red">(Under Development)</span>
 
 The You Described, We Archived dataset (YuWA) is a collaboration between San Francisco State University and The Smith-Kettlewell Eye Research Institute. It includes audio description (AD) data collected worldwide 2013-2022 through YouDescribe, an accessibility tool for adding audio descriptions to YouTube videos. YouDescribe, a web-based audio description tool along with an iOS viewing app, has a community of 12,000+ average annual visitors, with 3,000+ volunteer describers, and has created over 5,500+ audio described YouTube videos. 
 
@@ -8,6 +7,39 @@ Blind and visually impaired (BVI) viewers request YouTube videos that are saved 
 The YuWA dataset covers a vast domain of videos in 15  titled categories including Film & Animation, Music, Autos & Vehicles, Travel & Events, Pets & Animals, Sports, People & Blogs, Gaming, Comedy, Entertainment, How-To & Style, News & Politics, Nonprofits & Activism, Education, Science & Technology. A video can have multiple audio descriptions and an audio description can have multiple audio clips recorded by volunteer describers. The audio clips recorded before May, 2020 were transcribed using Listen By Code and the audio clips recorded after that are transcribed using Google Cloud Speech to Text API. Viewers can rate the audio descriptions on a scale ranging from 1-5 (1 being poor, 5 being excellent). Viewers can also provide feedback to the describers by selecting some improvements from the list. 
 
 The YuWA data repository includes all YouDescribe related audio descriptions from 2013-2022 and can be sorted to include or exclude important YouDescribe milestones. We have focused on data collected by YouDescribe since March 17, 2017 and Google Analytics data which started tracking traffic since July 30, 2020.  This scalable dataset will be regularly updated as new videos, audio descriptions and audio clips gets uploaded. 
+
+## Run Instructions
+The `download_yd_data.py` file was tested using Python 3.9. So, please make sure that when you use `python`, your Python version is at least Python 3 or make sure you specify `python3`.
+
+
+1. Install the requests module:
+
+```bash
+pip install requests
+
+# If using python3
+pip3 install requests
+```
+
+2. Run the python file:
+
+```bash
+# The default configuration will store the audio clips in the current directory
+# separated by YouTube video ID and Audio Description ID.
+# --audioDescDir: This option allows you to specify the output directory where
+#                 the audio clips will be stored.
+
+python download_yd_data.py
+
+# If specifying python3
+python3 download_yd_data.py
+
+# Specify output directory
+python download_yd_data.py --audioDescDir=<PATH_TO_OUTPUT_DIR>
+```
+
+
+
 
 ## Data Analysis
 
@@ -47,7 +79,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Percentage of Rated / Unrated Audio Descriptions </b>
 
 <p align="center">
-  <img width="327" alt="Percentage of Rated / Unrated Audio Descriptions" align="center" src="https://user-images.githubusercontent.com/59475801/195049891-8bc342ff-6603-4abc-8729-d194c08cd67e.png">
+  <img width="354" alt="Percentage of Rated / Unrated Audio Descriptions" align="center" src="https://user-images.githubusercontent.com/59475801/204149790-2daa292c-582b-4a37-99e5-4bdc4b0add37.png">
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
@@ -55,7 +87,7 @@ The YuWA data repository includes all YouDescribe related audio descriptions fro
 <b> Audio Descriptions Ratings </b>
 
 <p align="center">
-  <img width="373" alt="Audio Descriptions Ratings (poor to excellent)" align="center" src="https://user-images.githubusercontent.com/59475801/195051281-7fb7ae89-b77c-468b-b327-2f8cbb5d2782.png"> 
+  <img width="405" alt="Audio Descriptions Ratings (excellent to poor)" align="center" src="https://user-images.githubusercontent.com/59475801/204149848-731c2e06-c32f-4dac-b03b-d92e8744f21d.png"> 
 </p>
 <p align="center"> March 17, 2017 - September 21, 2022 </p>
 
