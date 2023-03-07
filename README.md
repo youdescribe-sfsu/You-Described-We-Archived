@@ -39,6 +39,9 @@ python download_yd_data.py --audioDescDir=<PATH_TO_OUTPUT_DIR>
 ```
 
 
+3. Follow the onscreen instructions when running the python file to register with the YuWA system and receive an API key to access the audio clips.
+
+4. After you receive an API key which should be written in a file called `yuwa.json`, run the python file again and follow the on-screen instructions.
 
 
 ## Data Analysis

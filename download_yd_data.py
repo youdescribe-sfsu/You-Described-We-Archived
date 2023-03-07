@@ -137,7 +137,13 @@ def downloadAudioDescriptions(email, apiKey, inputFile, audioDescDir, useAvailab
         })
 
         if not (doc.status_code >=200 and doc.status_code < 300):
-            print(f"Please download the latest version of this data repository to get the latest version of the download script.")
+
+            if doc.status_code == 404:
+                print(f"Requested path ({filePath}/{fileName}) could not be found in YuWA dataset. We are working on moving all audio clips over to the YuWA dataset. Please try again later.")
+            else:
+                print(f"Something went wrong. Please download the latest version of this data repository to get the latest version of the download script. If you already have the latest version, please create a new GitHub Issue describing the issue and the YouDescribe team will try to help as soon as possible.")
+            
+            continue
 
         with open(localFilePath, 'wb') as f:
             f.write(doc.content)
