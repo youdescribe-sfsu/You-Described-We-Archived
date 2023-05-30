@@ -173,6 +173,10 @@ python download_yd_data.py --audioDescDir=<PATH_TO_OUTPUT_DIR>
 <img width="664" alt="Ability Central" align="center" src="https://user-images.githubusercontent.com/59475801/195056260-d0d90274-f1c7-4e9b-898c-cfb974e3fbc7.png">
 </p>
 
+<p align="center">
+<img width="400" alt="National Institute on Disability, Independent Living, and Rehabilitation Research" align="center" src="https://github.com/youdescribe-sfsu/youdescribe-data-repository/assets/59475801/7e6845e3-98d4-4fa7-914b-ac4af317a31b">
+</p>
+
 ## Meet the Team Members
 
 | Team Member Name | Year | Role |
@@ -203,7 +207,7 @@ python download_yd_data.py --audioDescDir=<PATH_TO_OUTPUT_DIR>
 | Benjamin Kao	| 2022 - Present | Team Leader/Software Engineer |		
 | Hirva Patel	| 2022 - Present | Software Developer |		
 | Kishan Patel	| 2022 - Present | Mobile Developer	|
-| Manali Seth	| 2022 - Present | Software/Data Engineer |
+| Manali Seth	| 2022 - Present | Data Engineer |
 | Sanket Naik	| 2022 - Present | Software Developer |		
 | Vishal Sharma	| 2022 - Present | Software Developer |
 | Ishank Aggarwal | 2022 - Present | Machine Learning Engineer |		
