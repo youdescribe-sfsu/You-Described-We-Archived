@@ -16,8 +16,7 @@ and you have already downloaded the latest version of this script from GitHub, t
 the GitHub with your request ID, and we will try to get back to you as soon as possible. 
 """
 
-url = "http://13.58.32.80"
-
+url = "https://ai.youdescribe.org/api"
 
 def parseArgs():
     parser = argparse.ArgumentParser(description="This program downloads data from the YouDescribe data repository for use in AI/ML applications.")
