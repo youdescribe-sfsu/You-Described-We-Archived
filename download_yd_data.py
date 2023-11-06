@@ -226,7 +226,8 @@ def main():
             response = requests.post(f"{url}/users/reason", json={
                 "email": email,
                 "reasonCategory": reasonCategory,
-                "reason": reason
+                "reason": reason,
+                "dataset":"yuwa"
             })
 
             if noError(response.status_code):
