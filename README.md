@@ -1,5 +1,11 @@
 # You Described, We Archived: A Rich Audio Description Dataset
 
+> [!IMPORTANT]
+> **YuWA has moved to Hugging Face:** https://huggingface.co/datasets/youdescribe/YuWA
+> The new release covers 2012 to November 2026 and includes the audio files.
+> The download script in this repository no longer works, because the audio
+> links it uses are no longer reachable. This repository is kept for reference.
+
 The You Described, We Archived dataset (YuWA) is a collaboration between San Francisco State University and The Smith-Kettlewell Eye Research Institute. It includes audio description (AD) data collected worldwide 2013-2022 through YouDescribe, an accessibility tool for adding audio descriptions to YouTube videos. YouDescribe, a web-based audio description tool along with an iOS viewing app, has a community of 12,000+ average annual visitors, with 3,000+ volunteer describers, and has created over 5,500+ audio described YouTube videos. 
 
 Blind and visually impaired (BVI) viewers request YouTube videos that are saved to a wishlist and volunteer audio describers select a video, write a script, record audio clips, and edit clip placement to create an audio description. The audio description tracks are stored separately and played together with the YouTube video then posted for public view at [YouDescribe](https://youdescribe.org/)
