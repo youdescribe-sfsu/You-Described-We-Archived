@@ -1,9 +1,8 @@
 # You Described, We Archived: A Rich Audio Description Dataset
 
 > [!IMPORTANT]
-> **YuWA has moved to Hugging Face.** The 2026 release is at
-> https://huggingface.co/datasets/youdescribe/YuWA (DOI: [10.57967/hf/11742](https://doi.org/10.57967/hf/11742)).
-> It covers 2012 to November 2026 and includes the audio files.
+> **YuWA has moved to Hugging Face:** https://huggingface.co/datasets/youdescribe/YuWA
+> The new release covers 2012 to November 2026 and includes the audio files.
 > The download script in this repository no longer works, because the audio
 > links it uses are no longer reachable. This repository is kept for reference.
 
